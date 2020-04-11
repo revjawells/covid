@@ -63,4 +63,4 @@ covid.dat. Finally, I issue the command:
    gnuplot covid.plot 
 
 And I get the file covid.png which looks like this:
-![Number of Persons with COVID-19 in New Hampshire]({static}/images/covid.png)
+![Number of Persons with COVID-19 in New Hampshire](covid.png)
